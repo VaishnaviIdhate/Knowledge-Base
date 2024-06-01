@@ -1,4 +1,5 @@
-# Knowledge-Base
+# Water Quality Prediction
+
 
 Water potability refers to the safety of water for human consumption.
 
